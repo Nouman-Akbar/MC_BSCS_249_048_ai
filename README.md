@@ -1,1 +1,3 @@
-# MC_BSCS_249_048_ai
+# Artificial Intelligence 
+## Muhammad Nouman Akbar
+### MC_BSCS_249_048
